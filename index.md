@@ -1,4 +1,6 @@
-Hello and welcome to my blog! I am a student of Genomics at the Unversity of Bologna and here I share things that are generally related to (but not only) genetics and molecular biology.
+# Hello and welcome to my blog! 
+
+I am a student of Genomics at the Unversity of Bologna and here I share things that are generally related to (but not only) genetics and molecular biology.
 ![Hi!](images/IMG_3648.JPG)
 
 # Enjoy!
